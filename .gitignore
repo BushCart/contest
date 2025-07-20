@@ -1,0 +1,8 @@
+#*.jsonl
+#*.pkl
+#*.index
+#parsed/
+#embeddings/
+#vector_store/
+__pycache__/
+.venv/
